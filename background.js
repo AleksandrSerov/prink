@@ -1,3 +1,1 @@
-chrome.runtime.onConnect.addListener(() => {
-
-});
+chrome.runtime.onConnect.addListener(() => {});
